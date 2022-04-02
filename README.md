@@ -10,6 +10,9 @@
  
 * Build on Windows
   [![Build CI - Windows](https://github.com/NikithYD/M1_Quiz/actions/workflows/wind.yml/badge.svg)](https://github.com/NikithYD/M1_Quiz/actions/workflows/wind.yml)
+  
+* CPP check
+  [![Analysis](https://github.com/NikithYD/M1_Quiz/actions/workflows/analysis.yml/badge.svg)](https://github.com/NikithYD/M1_Quiz/actions/workflows/analysis.yml)
  
 
 # M1_Quiz
