@@ -1,3 +1,7 @@
+# Badges
+* Codacy badge
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a6d32ee47544a9697745d9ea8f2cdfd)](https://www.codacy.com/gh/NikithYD/M1_Quiz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NikithYD/M1_Quiz&amp;utm_campaign=Badge_Grade)
+
 # M1_Quiz
 Quiz game implimentation<br />
 
