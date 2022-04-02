@@ -1,4 +1,7 @@
 # M1_Quiz
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0962fd054bee4cfcbbeae93f9449df1e)](https://app.codacy.com/gh/NikithYD/M1_Quiz?utm_source=github.com&utm_medium=referral&utm_content=NikithYD/M1_Quiz&utm_campaign=Badge_Grade_Settings)
+
 Quiz game implimentation<br />
 
 The project is based upon quiz test implemented with the help os C-Programming. Quiz or online tests in the form of MCQs are widely used to test the knowledge of students in collages and schools. It helps in understanding whether student understand the concepts in a very precise and in efficient way.
