@@ -8,6 +8,8 @@
 * Build on Linux
   [![Build CI - Linux](https://github.com/NikithYD/M1_Quiz/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/NikithYD/M1_Quiz/actions/workflows/c-cpp.yml)
  
+* Build on Windows
+  [![Build CI - Windows](https://github.com/NikithYD/M1_Quiz/actions/workflows/wind.yml/badge.svg)](https://github.com/NikithYD/M1_Quiz/actions/workflows/wind.yml)
  
 
 # M1_Quiz
